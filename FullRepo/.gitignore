@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EasyVatFull/Easyvat.Api/bin
+/EasyVatFull/Easyvat.Api/obj
+/EasyVatFull/Easyvat.Common/bin
+/EasyVatFull/Easyvat.Common/obj
+/EasyVatFull/Easyvat.Model/bin
+/EasyVatFull/Easyvat.Model/obj
+/EasyVatFull/Easyvat.Models/bin/Debug/netcoreapp2.2
+/EasyVatFull/Easyvat.Models/obj
+/EasyVatFull/Easyvat.Services/bin
+/EasyVatFull/Easyvat.Services/obj
+/EasyVatFull/Easyvat.SupplierApi/bin/Debug/netcoreapp2.2
+/EasyVatFull/Easyvat.SupplierApi/obj
+/EasyVatFull/packages
+/EasyVatFull/.vs/EasyVatFull/v15/Server/sqlite3
+/EasyVatFull/.vs/EasyVatFull/v16
+/EasyVatFull/.vs/EasyVatFull/config
+/EasyVatFull/.vs/EasyVatFull/DesignTimeBuild
+/EasyVatFull/EasyVatWebApp
+/EasyVatFull/Easyvat.Api/appsettings
